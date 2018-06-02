@@ -1,5 +1,5 @@
 === Easy Digital Downloads - Drip ===
-Contributors: davidhme, fatcatapps, cssimmon
+Contributors: cssimmon, davidhme, fatcatapps
 Donate link: 
 Tags: drip, marketing automation, email, email marketing, edd, easy digital downloads, getdrip, cart abandonment
 
@@ -84,7 +84,10 @@ Please [go here](http://fatcatapps.com/edd-drip/#setup) to learn how to set up t
 
 == Changelog ==
 
-= 1.4.2 -
+= 2.0.0 -
+*Release Date -  TBD
+
+* Update Plugin Adopted by WPBackItUp
 
 * Fix: Bug for settings on EDD>=2.5 where drip api key and account are lost whenever extension settings in other sections are saved.
 
