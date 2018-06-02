@@ -4,8 +4,8 @@
     },
     "autoload"   : {
         "classmap": [
-            "includes/drip/drip.php",
-            "includes/edd-drip-logging.php"
+            "src/includes/drip/drip.php",
+            "src/includes/edd-drip-logging.php"
         ]
     }
 }
